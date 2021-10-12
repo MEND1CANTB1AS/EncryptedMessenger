@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "94446095304",
+    "project_id": "messengerapp-97e68",
+    "storage_bucket": "messengerapp-97e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94446095304:android:abea5653cae2649cb30efd",
+        "android_client_info": {
+          "package_name": "com.example.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94446095304-3440bihmh4in6v5q9t2ik1dmvctqplm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_gOcZoDmwwGAriq1OWVc5dspMkZat6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94446095304-3440bihmh4in6v5q9t2ik1dmvctqplm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94446095304:android:4449738f73969071b30efd",
+        "android_client_info": {
+          "package_name": "com.example.srp_messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94446095304-3440bihmh4in6v5q9t2ik1dmvctqplm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_gOcZoDmwwGAriq1OWVc5dspMkZat6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94446095304-3440bihmh4in6v5q9t2ik1dmvctqplm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
